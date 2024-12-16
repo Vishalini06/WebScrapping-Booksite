@@ -1,5 +1,4 @@
 # WebScrapping-Booksite
-# WebScrapping-Booksite
 
 A Python-based web scraper designed to extract information about books from the [Books to Scrape](https://books.toscrape.com) website. This script collects data such as book titles, prices, availability, and links to individual book pages and saves the results in Excel and CSV formats.
 
